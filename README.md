@@ -1,10 +1,5 @@
 # Sentiment-Analysis-on-IMDB-Dataset
 
-### Natural Language Processing
-
-- This is a basic form of Natural Language Processing (NLP) called Sentiment Analysis in which we will try and classify a movie review as either positive or negative.
-
-
 ### Sentiment analysis
 
 - Sentiment analysis is the process of detecting positive or negative sentiment in text. It’s often used by businesses to detect sentiment in social data, gauge brand reputation, and understand customers.
