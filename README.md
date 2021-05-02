@@ -12,4 +12,3 @@ This is a basic form of Natural Language Processing (NLP) called Sentiment Analy
 
 
 This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing.
-
