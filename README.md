@@ -7,7 +7,7 @@
 ## Dataset Used
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/48115585/116819261-f63e9600-ab8c-11eb-9d53-80031a8436e9.png" width="700" height="350" />
+<img src = "https://user-images.githubusercontent.com/48115585/116819261-f63e9600-ab8c-11eb-9d53-80031a8436e9.png" width="600" height="310" />
 </p>
 
 
