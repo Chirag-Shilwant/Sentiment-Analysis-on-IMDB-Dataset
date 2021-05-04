@@ -25,7 +25,7 @@ The implementation was based on a research paper [Sentiment Analysis on Movie Re
 5. Gaussian Naive Bayes(GNB)
 6. Convolutional Neural Network (CNN)
 
-## Text Representation Models implemented
+## Text Representation Models Implemented
 1. Bag of Words
 2. Word2vec
 
