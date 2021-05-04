@@ -15,7 +15,7 @@ This is a dataset for binary sentiment classification containing substantially m
 
 ## Implementation
 
-The implementation was based on a research paper [Sentiment Analysis on Movie Review Data Using Machine Learning Approach](https://github.com/Chirag-Shilwant/Sentiment-Analysis-on-IMDB-Dataset/blob/main/paperSMAI.pdf).
+The implementation was based on a research paper [Sentiment Analysis on Movie Review Data Using Machine Learning Approach](https://github.com/Chirag-Shilwant/Sentiment-Analysis-on-IMDB-Dataset/blob/main/Research-Paper.pdf).
 
 ## Classifiers Implemented
 1. Multinomial Naive Bayes(MNB)
