@@ -4,7 +4,7 @@
 
 - Sentiment analysis is the process of detecting positive or negative sentiment in text. It’s often used by businesses to detect sentiment in social data, gauge brand reputation, and understand customers.
 
-## Dataset
+## Dataset Used
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/48115585/116819261-f63e9600-ab8c-11eb-9d53-80031a8436e9.png" width="700" height="350" />
